@@ -1,0 +1,13 @@
+.productCard{
+    text-align: center;
+    font-size: bold;
+    color:blue
+}
+.productCard-price{
+    text-align: center;
+    font-size: bold;
+    color:blue
+}
+.productCard-section{
+    margin-bottom: 50px;
+}
