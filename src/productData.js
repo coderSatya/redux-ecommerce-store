@@ -25,7 +25,7 @@ export default [
     title: "Nokia G20",
     price: 400.0,
     img: "https://res.cloudinary.com/drecbsopp/image/upload/v1627398698/nokia3_resize_md_qdw7bv.jpg",
-   
+    quantity: 1,
   },
   {
     id: 5,
